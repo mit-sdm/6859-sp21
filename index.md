@@ -22,7 +22,11 @@ The tool has been developed as a minimum viable product to gather user-feedback 
  - Customize axis labels & title for direct use in reports
 
 #### Potential Improvements
-- TODO
+- Multi-attribute tradespace analysis with custom utility calculation model
+- Constraints input in build mode to filter infeasible concepts
+- Enable range inputs for scores & prices, instead of fixed values
+- Upload user data in csv format
+- Download tradespace
 
 ## Demo
 [Video](https://youtu.be/6s4Ad9NvrDo)
