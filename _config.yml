@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+
+title: TRADESPACE UNIVERSE
+description: This is a final-project page for MIT 6.859 (Interactive Data Visualization) by Akshit Singla taken during Spring'21.
+
+logo: https://sdm.mit.edu/wp-content/themes/sdm-mit-child/images/sdm-logo-white.svg
+show_downloads: true
