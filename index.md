@@ -1,7 +1,7 @@
 ## Abstract
 A tradespace is a visual representation of a set of concepts, developed by making a range of design decision, in a space defined by two or more metrics. The **TRADESPACE UNIVERSE** is a web-based interactive tool to perform a tradespace analysis using a traditional web-browser, instead of installing desktop-based softwares.
 
-Complete whitepaper available [here](https://github.com/6859-sp21/final-project-sdm/raw/master/FinalPaper.pdf).
+Complete whitepaper available [here](https://github.com/6859-sp21/final-project-sdm/raw/master/final/FinalPaper.pdf).
 
 ## Application
 
