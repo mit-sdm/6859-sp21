@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Abstract
+A tradespace is a visual representation of a set of concepts, developed by making a range of design decision, in a space defined by two or more metrics. The **TRADESPACE UNIVERSE** is a web-based interactive tool to perform a tradespace analysis using a traditional web-browser, instead of installing desktop-based softwares.
 
-You can use the [editor on GitHub](https://github.com/mit-sdm/6859-sp21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Application
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Build / Install / Run
+The application has been made available\* for public use\*\* here: [TRADESPACE UNIVERSE](https://6859-sp21.github.io/final-project-sdm/).
 
-### Markdown
+\* *The application was developed in browser-based web-application form and has been deployed on Github Pages, so no additional installation process is required.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+\*\* *Citations are not mandatory, but encouraged.*
 
-```markdown
-Syntax highlighted code block
+### Features
+The tool has been developed as a minimum viable product to gather user-feedback from students who study tradespace analysis as a part of their curriculum. The prioritized feature set includes:
+- TODO
 
-# Header 1
-## Header 2
-### Header 3
+#### Potential Improvements
+- TODO
 
-- Bulleted
-- List
+## Demo
 
-1. Numbered
-2. List
+### Screenshots
+![tradespace-view](/images/tradespace-view.png)
+![build-view](/images/build-view.png)
 
-**Bold** and _Italic_ and `Code` text
+### Video Teaser
+[Youtube](https://youtu.be/6s4Ad9NvrDo)
 
-[Link](url) and ![Image](src)
-```
+## Whitepaper
+[Download](TODO)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Team
+- Akshit Singla
+-- [akshit@mit.edu](mailto:akshit@mit.edu)
+-- [LinkedIn](https://www.linkedin.com/in/akshitsingla/)
+-- [Instagram](https://www.instagram.com/asingla451/)
+-- [Facebook](https://www.facebook.com/akshit.singla/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mit-sdm/6859-sp21/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## References & Acknowledgement
+- TODO
